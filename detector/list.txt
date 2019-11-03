@@ -1,0 +1,4 @@
+3
+KartRider.exe
+CA.exe
+iexplore.exe
